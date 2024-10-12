@@ -15,3 +15,5 @@ fruits = ['bananas, oranges, pineapples,...']
 print('Using python i can write arrays')
 print(f"i can group numbers like {numbers}")
 print(f'i also like fruits like {fruits}')
+
+fruits.add('Mangoes, Pears')

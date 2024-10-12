@@ -17,3 +17,6 @@ print(f"i can group numbers like {numbers}")
 print(f'i also like fruits like {fruits}')
 
 fruits.add('Mangoes, Pears')
+
+print(f'No.....I actually like {fruits}')
+print('I almost forgot about ', fruits[4,5], 'lol!')

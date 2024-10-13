@@ -16,7 +16,7 @@ print('Using python i can write arrays')
 print(f"i can group numbers like {numbers}")
 print(f'i also like fruits like {fruits}')
 
-fruits.add('Mangoes, Pears')
+fruits.append('Mangoes, Pears')
 
 print(f'No.....I actually like {fruits}')
-print('I almost forgot about ', fruits[4,5], 'lol!')
+print('I almost forgot about ', numbers[4], 'lol!')
